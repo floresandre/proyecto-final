@@ -1,0 +1,38 @@
+  [
+    {
+      "id": 1,
+       "nombre": "Caja de herramientas",
+       "precio": 2000,
+       "destacado": true,
+       "imagen": "/img/caja.webp"
+    },
+    {
+      "id": 2,
+       "nombre": "Kit de herramientas",
+       "precio": 20000,
+       "destacado": true,
+       "imagen": "/img/kit.jpeg"
+    },
+    {
+      "id": 3,
+       "nombre": "Juego de pinzas",
+       "precio": 5000,
+       "destacado": true,
+       "imagen": "/img/pinzas.webp"
+    },
+    {
+      "id": 4,
+       "nombre": "Serrucho",
+       "precio": 3000,
+       "destacado": true,
+       "imagen": "/img/serrucho.webp"
+    },
+    {
+      "id": 5,
+       "nombre": "Taladro",
+       "precio": 30000,
+       "destacado": true,
+       "imagen": "/img/taladro.webp"
+    }
+  ]
+  
